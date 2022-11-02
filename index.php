@@ -35,9 +35,33 @@
                 <h2>MediCenter is a responsitve template perfect for all screen sizes</h2>
             </div>
             <div class="banner_options">
-                <div class="banner1"></div>
-                <div class="banner2"></div>
-                <div class="banner3"></div>
+                <div class="banner1">
+                    <div class="banner_title">Emergency Case</div>
+                    <div class="banner_desc">If you need a doctor urgently outside of medicenter opening hours, call emergency appointment number for emergency service.</div>
+                    <a href="">Read More</a>
+                </div>
+                <div class="banner2">
+                    <div class="banner_title">Doctors Timetable</div>
+                    <div class="banner_desc">Here at medicente we haver individual doctor's lists. Click read more below to see services and current timetable for our doctors.</div>
+                    <a href="">Read More</a>
+                </div>
+                <div class="banner3">
+                    <div class="banner_title">Opening Hours</div>
+                    <div class="banner3_options">
+                        <div class="banner3_list">
+                            <div>Monday - Friday</div>
+                            <div>8.00 - 17.00</div>
+                        </div>
+                        <div class="banner3_list">
+                            <div>Saturday</div>
+                            <div>9.30 - 17.30</div>
+                        </div>
+                        <div class="banner3_list">
+                            <div>Sunday</div>
+                            <div>9.30 - 15.00</div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
