@@ -65,5 +65,126 @@
             </div>
         </div>
     </section>
+    <section id="geral">
+        <div class="container">
+            <section>
+            <div class="widget">
+                    <div class="widget_title">
+                        <div class="widget_title_text">Latest News</div>
+                        <div class="widget_tittle_bar"></div>
+                    </div>
+                    <div class="widget_body flex">
+                        <article>
+                            <a href="#">
+                                <div class="news_data">
+                                    <div class="news_posted_at">01 JAN 22</div>
+                                    <div class="news_comments">2</div>
+                                </div>
+                                <div class="news_thumbnail">
+                                    <img src="assets/images/dr.jpg" alt="Imagem da postagem" />
+                                </div>
+                                <div class="news_title">
+                                    Lorem ipsum dolor sit, amet consectetur
+                                </div>
+                                <div class="news_resume">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Earum incidunt, a consequatur id exercitationem similique.
+                                    Quia ullam molestiae placeat eius ad harum, suscipit
+                                    officiis, doloremque tenetur provident animi. Fugiat, ipsum!
+                                </div>
+                            </a>
+                        </article>
+
+                        <article>
+                            <a href="#">
+                                <div class="news_data">
+                                    <div class="news_posted_at">01 JAN 22</div>
+                                    <div class="news_comments">2</div>
+                                </div>
+                                <div class="news_thumbnail">
+                                    <img src="assets/images/dr.jpg" alt="Imagem da postagem" />
+                                </div>
+                                <div class="news_title">
+                                    Lorem ipsum dolor sit, amet consectetur
+                                </div>
+                                <div class="news_resume">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Earum incidunt, a consequatur id exercitationem similique.
+                                    Quia ullam molestiae placeat eius ad harum, suscipit
+                                    officiis, doloremque tenetur provident animi. Fugiat, ipsum!
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Earum incidunt, a consequatur id exercitationem similique.
+                                    Quia ullam molestiae placeat eius ad harum, suscipit
+                                    officiis, doloremque tenetur provident animi. Fugiat, ipsum!
+                                </div>
+                            </a>
+                        </article>
+
+                        <article>
+                            <a href="#">
+                                <div class="news_data">
+                                    <div class="news_posted_at">01 JAN 22</div>
+                                    <div class="news_comments">2</div>
+                                </div>
+                                <div class="news_thumbnail">
+                                    <img src="assets/images/dr.jpg" alt="Imagem da postagem" />
+                                </div>
+                                <div class="news_title">
+                                    Lorem ipsum dolor sit, amet consectetur
+                                </div>
+                                <div class="news_resume">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Earum incidunt, a consequatur id exercitationem similique.
+                                    Quia ullam molestiae placeat eius ad harum, suscipit
+                                    officiis, doloremque tenetur provident animi. Fugiat, ipsum!
+                                </div>
+                            </a>
+                        </article>
+
+                        <article>
+                            <a href="#">
+                                <div class="news_data">
+                                    <div class="news_posted_at">01 JAN 22</div>
+                                    <div class="news_comments">2</div>
+                                </div>
+                                <div class="news_thumbnail">
+                                    <img src="assets/images/dr.jpg" alt="Imagem da postagem" />
+                                </div>
+                                <div class="news_title">
+                                    Lorem ipsum dolor sit, amet consectetur
+                                </div>
+                                <div class="news_resume">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                    Earum incidunt, a consequatur id exercitationem similique.
+                                    Quia ullam molestiae placeat eius ad harum, suscipit
+                                    officiis, doloremque tenetur provident animi. Fugiat, ipsum!
+                                </div>
+                            </a>
+                        </article>
+                    </div>
+                </div>
+            </section>
+            <aside>
+                <div class="widget">
+                    <div class="widget_title">
+                        <div class="widget_title_text">Departments</div>
+                        <div class="widget_tittle_bar"></div>
+                    </div>
+                    <div class="widget_body">
+                        ...
+                    </div>
+                </div>
+                <div class="widget">
+                    <div class="widget_title">
+                        <div class="widget_title_text">Make An Appointment</div>
+                        <div class="widget_tittle_bar"></div>
+                    </div>
+                    <div class="widget_body">
+                        ...
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </section>
 </body>
 </html>
