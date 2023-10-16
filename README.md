@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/github/languages/count/DieggoCarvalho/medicenter_flexbox?color=%232b4c99&style=for-the-badge"/>
   <img src="https://img.shields.io/github/languages/top/dieggocarvalho/medicenter_flexbox?color=%2339aae1&style=for-the-badge"/>
 
+<img src="https://raw.githubusercontent.com/DieggoCarvalho/medicenter_flexbox/master/git_src/medicenter_desc.png">
+<img src="https://raw.githubusercontent.com/DieggoCarvalho/medicenter_flexbox/master/git_src/medicenter_full.png">
+
   ---
   # ℹ️ *SOBRE*
   A **MEDICENTER** é um projeto de website apresentado no curso **"HTML5 e CSS3"** da B7web no "Módulo 7: Flexbox na prática". O projeto é ministrado pelo Bonieky Lacerda, fullstack developer e fundador da B7Web.
