@@ -1,8 +1,6 @@
-/* TABLET */
+/* TABLET - PHONES/MOBILE*/
 @media (max-width: 600px) {
-    * {
-        box-sizing: border-box;
-    }
+
     /* HEADER */
     header .container {
         flex-direction: row;
@@ -10,7 +8,11 @@
 
     nav ul {
         flex-direction: column;
-        display: none !important;
+        display: none;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        background-color: #fff;
     }
 
     header {
@@ -28,6 +30,10 @@
     }
 
     /* BANNER HEADER */
+    #banner {
+        height: 105vh;
+    }
+    
     .banner_headline {
         padding: 20px;
     }
@@ -35,7 +41,7 @@
         font-size: 55px;
     }
 
-    .banner_headline h1 {
+    .banner_headline h2 {
         font-size: 17px;
     }
 
@@ -63,7 +69,7 @@
     /* SEÇÃO GERAL */
 
     #geral {
-        margin-top: 350px;
+        margin-top: 380px;
     }
 
     #geral section,
@@ -74,6 +80,11 @@
 
     .container {
         flex-direction: column;
+    }
+
+    .flexColumn {
+        width: auto;
+        max-width: 100vw;
     }
 
     .widget_body article {
@@ -88,6 +99,11 @@
 
     .widget_footer {
         justify-content: center;
+        width: 100%;
+    }
+
+    .widget_body_mid {
+        width: 100%;
     }
     .social-icon {
         width: 40px !important;
@@ -102,6 +118,7 @@
     .widget_body {
         display: flex;
         justify-content: flex-start;
+        flex-wrap: wrap;
     }
 
     .widget_body {
@@ -114,5 +131,7 @@
 
     .footer_copy {
         padding: 0px 20px;
+        justify-content: center;
+        font-size: 10px;
     }
 }
