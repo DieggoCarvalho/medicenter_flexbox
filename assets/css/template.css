@@ -1,3 +1,5 @@
+/* MEDIA SCREEN */
+@import url(./media.css);
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -62,6 +64,21 @@ nav a {
     text-transform: uppercase;
     color: #727272;
     /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+.menuMobile {
+    display: none;
+    width: 40px;
+    height: 40px;
+    /* background-color: #000; */
+    margin: 40px 20px 40px 0px;
+    cursor: pointer;
+}
+
+.mm_line {
+    height: 4px;
+    border-radius: 3px;
+    background-color: #39aae1;
 }
 
 nav .active a,
